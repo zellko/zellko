@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zellko
 - 👀 I’m interested in programmation, CAD, 3D printing
-- 🌱 I’m currently learning Python!
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JavaScript!
+- 💞️ I’m looking to collaborate on all interesting project where I can help!
 - 📫 How to reach me, on Discord Zellkoss#3004
 
 <!---
